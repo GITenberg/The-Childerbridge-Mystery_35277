@@ -1,0 +1,30 @@
+_repo: The-Childerbridge-Mystery_35277
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35277-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boothby, Guy
+    alias: Boothby, Guy Newell
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '3587'
+    url: http://www.gutenberg.org/2009/agents/3587
+    wikipedia: http://en.wikipedia.org/wiki/Guy_Boothby
+description: ''
+gutenberg_issued: '2011-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Love stories'
+title: The Childerbridge Mystery
+url: http://www.gutenberg.org/ebooks/35277
